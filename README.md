@@ -1,5 +1,5 @@
 # Snake-pit
-we have implemented a basic Snake Game. In this, we have used the concept of classes and some computer graphics functions.
+Implemented a basic Snake Game. In this, we have used the concept of classes and some computer graphics functions.
 
 # The basic functionalities of this game are given below.
 

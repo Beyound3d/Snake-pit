@@ -23,4 +23,4 @@ Implemented a basic Snake Game. In this, we have used the concept of classes and
  
  e control is used to exit from the game. We can click an e character from the keyword to exit from the game.
  <hr>
-![pythan](https://github.com/Beyound3d/Snake-pit/assets/129869652/fe0bba40-34d6-4c85-a800-8c118e64c1ea)
+![Screenshot 2023-07-06 142309](https://github.com/Beyound3d/Snake-pit/assets/129869652/200f1d84-b665-4ba2-a28d-8252035a4c52)

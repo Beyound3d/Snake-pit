@@ -22,3 +22,5 @@ Implemented a basic Snake Game. In this, we have used the concept of classes and
  g control is used to resume the game. We can click a g character from the keyword to resume the game.
  
  e control is used to exit from the game. We can click an e character from the keyword to exit from the game.
+ <hr>
+![pythan](https://github.com/Beyound3d/Snake-pit/assets/129869652/fe0bba40-34d6-4c85-a800-8c118e64c1ea)

@@ -1,6 +1,6 @@
 # Snake-Pit-Game
 
-Implemented a basic Snake Game. In this, we have used the concept of classes and some computer graphics functions.
+Implemented a basic Snake Game. In this, we have used the concept of classes and library pycharm.
 
 # The basic functionalities of this game are given below:
 
@@ -23,3 +23,6 @@ Implemented a basic Snake Game. In this, we have used the concept of classes and
  
  e control is used to exit from the game. We can click an e character from the keyword to exit from the game.
  
+ <hr>
+ 
+![Screenshot 2023-07-07 104625](https://github.com/Beyound3d/Snake-2D-Game/assets/129869652/eb81d64a-eb11-4d0e-9ecf-8ecbf3ceb434)

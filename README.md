@@ -11,7 +11,10 @@ Implemented a basic Snake Game. In this, we have used the concept of classes and
  
  The Snake can be moved in any direction with the help of the keyboard ( Right, Left, up, and down keys).
  
- When the Snake eats a fruit, a pop up screen appear as shown below.
+ When the Snake eats a fruit, a pop up screen appear as shown below:
+
+ ![Screenshot 2023-07-07 113920](https://github.com/Beyound3d/Snake-2D-Game/assets/129869652/b01a1c7a-311a-4d51-b1c1-09e646fdb60d)
+
 
  # Controls:
  

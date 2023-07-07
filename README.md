@@ -34,3 +34,7 @@ Implemented a basic Snake Game. In this, we have used the concept of classes and
  <hr>
  
 ![Screenshot 2023-07-07 104625](https://github.com/Beyound3d/Snake-2D-Game/assets/129869652/eb81d64a-eb11-4d0e-9ecf-8ecbf3ceb434)
+
+## Made by:
+
+- [@Tanu Kaushik](https://github.com/beyound3d)
